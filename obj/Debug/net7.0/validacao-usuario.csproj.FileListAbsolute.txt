@@ -1,0 +1,15 @@
+C:\Users\38985141880\Desktop\validacao-usuario\bin\Debug\net7.0\validacao-usuario.exe
+C:\Users\38985141880\Desktop\validacao-usuario\bin\Debug\net7.0\validacao-usuario.deps.json
+C:\Users\38985141880\Desktop\validacao-usuario\bin\Debug\net7.0\validacao-usuario.runtimeconfig.json
+C:\Users\38985141880\Desktop\validacao-usuario\bin\Debug\net7.0\validacao-usuario.dll
+C:\Users\38985141880\Desktop\validacao-usuario\bin\Debug\net7.0\validacao-usuario.pdb
+C:\Users\38985141880\Desktop\validacao-usuario\obj\Debug\net7.0\validacao-usuario.csproj.AssemblyReference.cache
+C:\Users\38985141880\Desktop\validacao-usuario\obj\Debug\net7.0\validacao-usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38985141880\Desktop\validacao-usuario\obj\Debug\net7.0\validacao-usuario.AssemblyInfoInputs.cache
+C:\Users\38985141880\Desktop\validacao-usuario\obj\Debug\net7.0\validacao-usuario.AssemblyInfo.cs
+C:\Users\38985141880\Desktop\validacao-usuario\obj\Debug\net7.0\validacao-usuario.csproj.CoreCompileInputs.cache
+C:\Users\38985141880\Desktop\validacao-usuario\obj\Debug\net7.0\validacao-usuario.dll
+C:\Users\38985141880\Desktop\validacao-usuario\obj\Debug\net7.0\refint\validacao-usuario.dll
+C:\Users\38985141880\Desktop\validacao-usuario\obj\Debug\net7.0\validacao-usuario.pdb
+C:\Users\38985141880\Desktop\validacao-usuario\obj\Debug\net7.0\validacao-usuario.genruntimeconfig.cache
+C:\Users\38985141880\Desktop\validacao-usuario\obj\Debug\net7.0\ref\validacao-usuario.dll
